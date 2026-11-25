@@ -1,2 +1,7 @@
 # bioSite
-A personal biography website about David Mote, highlighting his return to music, community, and hobbies.
+# CSD 340 Web Development with HTML and CSS
+
+## Contributors
+
+- Instructor: Dr. Mortoza Abdullah
+- Arrington Capehart
